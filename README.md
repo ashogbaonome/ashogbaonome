@@ -9,7 +9,7 @@ Founder, AOT (Ashogba Onome Technology)
 </p>
 
 <p align="center">
-AI Solutions Developer | Generative AI | Agentic AI | Cloud Computing | Business Automation
+AI Solutions Developer | Building Intelligent Business Software | Cloud & AI Automation
 </p>
 
 ---
