@@ -65,7 +65,7 @@ I am working toward becoming an internationally recognized AI Solutions Develope
 ## Connect With Me
 
 - GitHub: https://github.com/ashogbaonome
-- LinkedIn: (Add your LinkedIn profile URL here)
+- LinkedIn: www.linkedin.com/in/ashogba-onome-34440167
 - Portfolio Website (Coming Soon)
 
 ---
