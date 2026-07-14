@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashogbaonome/ashogbaonome/main/images/AOT_logo.png" width="220" alt="AOT Logo">
+  <img src="images/AOT_logo.png" width="250" alt="AOT Logo">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ashogba Onome</h1>
