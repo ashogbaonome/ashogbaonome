@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/AOT_logo.png" width="220" alt="AOT Logo">
+  <img src="images/aot-logo.png" width="220" alt="AOT Logo">
 </p>
 
 <h1 align="center">Ashogba Onome</h1>
