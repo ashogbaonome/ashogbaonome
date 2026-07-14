@@ -1,33 +1,35 @@
 <p align="center">
-  <img src="images/AOT_logo.png" width="250" alt="AOT Logo">
+  <img src="images/AOT_logo.png" width="220" alt="AOT Logo">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashogba Onome</h1>
-
-<h3 align="center">
-Founder of AOT (Ashogba Onome Technology)
-</h3>
+<h1 align="center">Ashogba Onome</h1>
 
 <p align="center">
-AI Solutions Developer • Generative AI • Agentic AI • Cloud Computing • Business Automation
+Founder, AOT (Ashogba Onome Technology)
+</p>
+
+<p align="center">
+AI Solutions Developer | Generative AI | Agentic AI | Cloud Computing | Business Automation
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am passionate about building intelligent software that solves real business problems.
+I am passionate about building intelligent software that solves real business problems through artificial intelligence, cloud technologies, and automation.
 
-Currently I am building:
+My current focus is on developing AI-powered business applications that improve operational efficiency across different industries.
 
-- 🏨 Hospitality Cloud ERP
-- 🤖 AI Agents
-- ☁️ Cloud Applications
-- 📊 Business Automation Solutions
+Current areas of work include:
+
+- Hospitality Cloud ERP
+- AI Agents
+- Cloud Applications
+- Business Automation Solutions
 
 ---
 
-## 🌱 I'm Currently Learning
+## Currently Learning
 
 - Agentic AI
 - AWS AI Practitioner
@@ -37,7 +39,7 @@ Currently I am building:
 
 ---
 
-## 💻 Technologies
+## Technologies
 
 - HTML5
 - CSS3
@@ -46,33 +48,32 @@ Currently I am building:
 - GitHub
 - AI Prompt Engineering
 
----
-
-## 🚀 Current Projects
-
-- 🎮 AOT Kids Learning Game
-- 🏓 AOT Table Tennis Game
-- 🏨 Hospitality Cloud ERP
+As I continue my learning journey, I will expand my expertise in Python, AWS, Supabase, AI frameworks, and modern web technologies.
 
 ---
 
-## 🎯 2026 Goals
+## Featured Projects
 
-- Build world-class AI Hospitality ERP
-- Become an AI Engineer
-- AWS Certified
-- Build AI Agents
-- Work internationally
-- Relocate to Canada
+- AOT Kids Learning Game
+- AOT Table Tennis Game
+- Hospitality Cloud ERP (In Development)
 
 ---
 
-## 📫 Connect With Me
+## Professional Goal
 
-- LinkedIn
+My goal is to build AI-powered business software that helps organizations automate processes, improve productivity, and make better decisions through intelligent systems.
+
+I am also working toward becoming an internationally recognized AI Solutions Developer while building technology products through AOT.
+
+---
+
+## Connect With Me
+
 - GitHub
+- LinkedIn
 - Portfolio Website (Coming Soon)
 
 ---
 
-⭐ Thank you for visiting my profile.
+Thank you for visiting my profile.
