@@ -16,9 +16,11 @@ Software Solutions Developer | Building Intelligent Business Software
 
 ## About Me
 
-I am an AI Solutions Developer focused on building intelligent business software that helps organizations automate processes, improve productivity, and make better decisions.
+I am a Software Developer passionate about building intelligent business software that helps organizations improve productivity, automate processes, and solve real-world business challenges.
 
-Through AOT (Ashogba Onome Technology), I am developing AI-powered solutions for hospitality, education, health and safety, and business operations while continuously expanding my expertise in artificial intelligence and cloud technologies.
+Through AOT (Ashogba Onome Technology), I am building practical software projects while expanding my expertise in artificial intelligence, cloud computing, business automation, and modern software development.
+
+My long-term goal is to build technology solutions that help businesses operate more efficiently while creating products that make a meaningful impact across different industries.
 
 ---
 
