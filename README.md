@@ -9,7 +9,7 @@ Founder, AOT (Ashogba Onome Technology)
 </h3>
 
 <p align="center">
-Building Intelligent Business Software with AI & Cloud Technologies
+Software Solutions Developer | Building Intelligent Business Software
 </p>
 
 ---
